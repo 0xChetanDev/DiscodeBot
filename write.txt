@@ -1,0 +1,1 @@
+it will hendel the dublicacy - like if i write the article about pikachu this will remove the remaining pikachu article and instead of that the bot will add the new article 
